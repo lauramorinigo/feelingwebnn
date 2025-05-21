@@ -6,6 +6,7 @@
 Because sometimes your feelings need to be *felt* a little louder. 💫
 
 ---
+<img width="513" alt="Screenshot 2025-05-18 at 15 49 19" src="https://github.com/user-attachments/assets/f686b255-71d1-42ee-87e6-aea8b0de26e9" />
 
 ## ✨ What It Does
 
@@ -15,6 +16,7 @@ Because sometimes your feelings need to be *felt* a little louder. 💫
 - 🖼️ Displays both your original and enhanced emotional scores  
 
 ---
+
 
 ## ⚙️ Pre-requirements
 
